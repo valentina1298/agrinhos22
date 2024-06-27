@@ -4,3 +4,8 @@ body{
     color: white;
     padding: 10px;
 }
+.topo{
+    display: flex;
+     padding: 1px 20px;
+     background-color: #3AC672;
+ }
