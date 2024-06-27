@@ -231,3 +231,11 @@ body{
         font-family: "Inter", sans-serif;
           font-optical-sizing: auto;
       }
+
+      .t1{
+        color: black;
+        position: absolute;
+        top: 18%;
+        left: 50%;
+        transform: translate(-18%,-50%);
+      }
