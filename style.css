@@ -85,4 +85,14 @@ body{
      .mato9{
         display: flex;
      }
-   
+ 
+     .color{
+        color: black;
+        padding: 73px 1px;
+        text-align: center;
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+      font-weight: 240;
+      font-style: italic;
+    
+    }
