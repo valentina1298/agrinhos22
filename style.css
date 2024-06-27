@@ -18,3 +18,12 @@ body{
     font-family: "Inter", sans-serif;
     text-decoration: underline;
 }
+.texto{
+    position: absolute;
+    right: 365px;
+    padding: 25px;
+    font-size: x-large;
+    color: black;
+    font-family: "Inter", sans-serif;
+    text-decoration: underline;
+}
