@@ -263,3 +263,11 @@ body{
         left: 50%;
         transform: translate(-18%,-50%);
       }
+
+      .t5{
+        color: black;
+        position: absolute;
+        top: 81%;
+        left: 50%;
+        transform: translate(-18%,-50%);
+      }
