@@ -67,3 +67,8 @@ body{
     .mato5{
         display: flex;
      }
+
+     .mato6{
+        display: flex;
+        padding: 100px 10px;
+     }
