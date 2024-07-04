@@ -72,9 +72,6 @@ footer img {
     font-family: "Inter", sans-serif;
     text-decoration: underline;
 }
-.logo{
-    width: 13%;
- }
 
  .título{
     text-align: center;
@@ -317,18 +314,12 @@ footer img {
         transform: translate(-18%,-50%);
       }
 
-      .ret{
-        width: 130%
-      }
-
-      .fim{
+      .rodape {
         display: flex;
-           padding: 1px 20px;
-           background-color: #3AC672;
-           position: relative;
-          bottom: -235px;
-      }
-
-      .logofim{
-        padding: 0% 44%;
-      }
+        justify-content: center;
+        background-color: #3AC672;
+    }
+    
+    footer img {
+        width: 10%;
+    }
