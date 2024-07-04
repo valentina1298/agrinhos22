@@ -4,11 +4,56 @@ body{
     color: white;
     padding: 10px;
 }
-.topo{
-    display: flex;
-     padding: 1px 20px;
-     background-color: #3AC672;
- }
+header{
+  display: grid;
+  grid-template-columns: 40% 60%;
+  padding: 12px;
+  background-color: #3AC672;
+  align-items: center;
+}
+
+header img {
+  width: 50%;
+}
+
+.sites {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 60px;
+}
+
+button {
+  padding: 12px 10px;
+  background-color: #DEF5DE;
+}
+
+.tabela {
+  display: grid;
+  justify-content: start;
+}
+
+.tabela h2 {
+  color: black;
+}
+
+.topicos {
+  list-style: none;
+  background-color: #DEF5DE;
+  padding: 40px;
+}
+apaga tbm
+ai desce la pro final do css
+apaga isso tudo
+.rodape {
+  display: flex;
+  justify-content: center;
+  background-color: #3AC672;
+}
+
+footer img {
+  width: 10%;
+}
+
  .texo{
     position: absolute;
     right: 440px;
