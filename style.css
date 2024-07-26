@@ -106,8 +106,7 @@ footer img {
 
 }
 
-.título2 {
-  display: flex;
+.título {
   padding: 10px;
   color: black;
   font-family: "Inter", sans-serif;
@@ -115,90 +114,6 @@ footer img {
   font-weight: 400;
   position: absolute;
   padding: 8% 15%;
-}
-
-.título3 {
-  display: flex;
-  padding: 10px;
-  color: black;
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  position: absolute;
-  padding: 0% 62%;
-  text-align: center;
-}
-
-.título4 {
-  display: flex;
-  padding: 10px;
-  color: black;
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  position: absolute;
-  padding: 8% 16%;
-  text-align: center;
-}
-
-.título5 {
-  display: flex;
-  padding: 10px;
-  color: black;
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  position: absolute;
-  padding: 0% 64%;
-  text-align: center;
-}
-
-.título6 {
-  display: flex;
-  padding: 10px;
-  color: black;
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  position: absolute;
-  padding: 8% 23%;
-  text-align: center;
-}
-
-.título7 {
-  display: flex;
-  padding: 10px;
-  color: black;
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  position: absolute;
-  padding: 0% 64%;
-  text-align: center;
-}
-
-.título8 {
-  display: flex;
-  padding: 10px;
-  color: black;
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  position: absolute;
-  padding: 6% 63%;
-  text-align: center;
-}
-
-.título9 {
-  display: flex;
-  padding: 10px;
-  color: black;
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  position: absolute;
-  padding: 2% 23%;
-  text-align: center;
 }
 
 .resu {
@@ -334,7 +249,9 @@ footer img {
 
 
 
-
+.título{
+  display: flex;
+}
 
 
 }
