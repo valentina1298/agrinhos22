@@ -108,10 +108,7 @@ footer img {
         display: flex;
      }
 
-     .mato6{
-        display: flex;
-        padding: 100px 10px;
-     }
+    
 
      .mato7{
         display: flex;
@@ -324,6 +321,11 @@ footer img {
       .mato9{
         display: flex;
      }
+     .mato6{
+      display: flex;
+    
+   }
 
-     
+
+
     }
