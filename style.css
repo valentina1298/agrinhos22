@@ -104,10 +104,7 @@ footer img {
     background-color: #DEF5DE;
     }
 
-    .mato5{
-        display: flex;
-     }
-
+    
     
 
      .mato7{
@@ -327,6 +324,10 @@ footer img {
    .mato7{
     display: flex;
  }
+ .mato8{
+  display: flex;
+  padding: 100px 10px;
+}
 
 
 
