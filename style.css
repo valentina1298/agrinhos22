@@ -328,11 +328,25 @@ footer img {
   display: flex;
   
 }
+.mato5{
+  display: flex;
+  padding: 100px 10px;
+}
 .mato4{
   display: flex;
   
 }
 
+.mato3{
+  display: flex;
+}
+.mato2{
+  display: flex;
+  padding: 100px 10px;
+}
+.mato1{
+  display: flex;
+}
 
 
     }
